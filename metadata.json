@@ -1,0 +1,6 @@
+{
+  "name": "码力每日练",
+  "description": "基于 Supabase 与 OpenCode AI 的个人编程代码模板管理与每日代码填空测验应用",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

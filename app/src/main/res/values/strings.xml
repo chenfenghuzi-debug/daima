@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">码力每日练</string>
+    <string name="nav_daily_quiz">每日填空</string>
+    <string name="nav_templates">代码模板库</string>
+    <string name="quiz_title">每日代码挑战</string>
+    <string name="quiz_subtitle">OpenCode AI 智能抽空 · 锤炼核心代码逻辑</string>
+    <string name="templates_title">代码模板管理</string>
+    <string name="templates_subtitle">管理存储在 Supabase code_templates 表中的代码片段</string>
+    <string name="btn_submit_answer">提交验证</string>
+    <string name="btn_next_quiz">换一题 (AI 生成)</string>
+    <string name="btn_show_hint">查看 AI 提示</string>
+    <string name="btn_reveal_answer">揭晓答案</string>
+    <string name="btn_add_template">新增代码模板</string>
+    <string name="btn_save">保存至 Supabase</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_edit">编辑</string>
+    <string name="btn_sql_guide">建表 SQL</string>
+    <string name="placeholder_blank_input">在此输入缺失的关键代码…</string>
+    <string name="label_template_title">模板标题</string>
+    <string name="label_template_language">编程语言</string>
+    <string name="label_template_difficulty">难度等级</string>
+    <string name="label_template_tags">知识标签（逗号分隔）</string>
+    <string name="label_template_description">逻辑说明 / 考点备注</string>
+    <string name="label_template_code">完整代码片段</string>
+    <string name="status_correct">回答正确！核心逻辑完全匹配</string>
+    <string name="status_incorrect">回答有误，请仔细检查语法或逻辑条件</string>
+    <string name="loading_quiz">正在从 Supabase 随机抽取模板并调用 OpenCode AI 挖空关键逻辑…</string>
+    <string name="loading_templates">正在同步 Supabase code_templates 数据表…</string>
+    <string name="empty_templates_title">暂无代码模板</string>
+    <string name="empty_templates_desc">点击右下角按钮添加你的第一个代码模板，供每日 AI 测验使用</string>
+</resources>
